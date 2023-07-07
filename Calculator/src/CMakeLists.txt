@@ -1,0 +1,6 @@
+add_subdirectory(sum)
+add_subdirectory(mult)
+add_subdirectory(subs)
+add_subdirectory(div)
+add_subdirectory(factorial)
+add_subdirectory(square)

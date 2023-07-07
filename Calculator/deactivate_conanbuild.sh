@@ -1,0 +1,1 @@
+. "/home/garibo684/Projects/Internship/Learning/Projects/Calculator/deactivate_conanbuildenv-release-x86_64.sh"

@@ -1,0 +1,1 @@
+. "/home/garibo684/Projects/Internship/Learning/Projects/Calculator/conanbuildenv-release-x86_64.sh"
